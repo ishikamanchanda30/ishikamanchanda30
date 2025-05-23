@@ -1,15 +1,6 @@
-<h1 align="center">Hi 👋, I'm Ishika</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1>Hi 👋, I'm Ishika</h1>
+<h3>I love building stuff and constantly improving and exploring new technologies. </h3>
 
-- 🔭 I’m currently working on **A Mood Based Song Recommender**
-
-- 👨‍💻 All of my projects are available at [https://ishikamanchanda.vercel.app/](https://ishikamanchanda.vercel.app/)
-
-- 📫 How to reach me **ishikamanchanda0130@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1S2BlnStI1vJlrxvXQj-_fG92wWh_t1vp/view?usp=sharing](https://drive.google.com/file/d/1S2BlnStI1vJlrxvXQj-_fG92wWh_t1vp/view?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ishi_manchanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ishi_manchanda" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shikamanchanda0130" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shikamanchanda0130" height="30" width="40" /></a>
